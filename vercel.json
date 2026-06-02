@@ -1,4 +1,0 @@
-{
-  "buildCommand": "cd my-next-project && next build",
-  "outputDirectory": "my-next-project/.next"
-}
